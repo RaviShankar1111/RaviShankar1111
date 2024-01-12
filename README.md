@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaviShankar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ and Python
 - 📫 How to reach me porulaadharam111@gmail.com
 
 <!---
